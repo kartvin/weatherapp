@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GetCurrentWeather</key>
+	<string>http://api.openweathermap.org/data/2.5/weather?q=%@&amp;APPID=64b93e1ce1a20ecad43bae020858fe1f</string>
+	<key>GetIcon</key>
+	<string>http://openweathermap.org/img/w/%@.png</string>
+</dict>
+</plist>
